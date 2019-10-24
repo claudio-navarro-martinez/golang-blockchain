@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"rsc.io/quote"
-	"github.com/claudio-navarro-martinez/golang-blockchain/blockchain"
+	"./blockchain"
 )
 
 func main() {
