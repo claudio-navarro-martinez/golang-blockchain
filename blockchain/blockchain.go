@@ -3,8 +3,8 @@ package blockchain
 import (
 	"fmt"
 )
-const kkmodulo = 33
+const Kkmodulo = 33
 
-func imprimekkmodulo(esto int) {
+func Imprimekkmodulo(esto int) {
 	fmt.Println("llamada desde modulo %d", esto)
 }
