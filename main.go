@@ -8,5 +8,5 @@ import (
 
 func main() {
 	fmt.Println(quote.Hello())
-	blockchain.imprimekkmodulo(9)
+	blockchain.imprimekkmodulo(10)
 }
