@@ -1,8 +1,8 @@
 package blockchain
 
-import {
+import (
 	"fmt"
-}
+)
 const kkmodulo = 33
 
 func imprimekkmodulo(esto int) {
